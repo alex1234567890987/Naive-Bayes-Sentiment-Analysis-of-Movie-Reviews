@@ -1,5 +1,5 @@
 
-# COM3110 Assignment 2 Sentiment Analysis
+# Assignment Sentiment Analysis
 
 A Naive Bayes Model in order to perform sentiment analysis on a Rotten Tomatoes movie review dataset.
 
